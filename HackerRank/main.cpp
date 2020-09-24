@@ -1,9 +1,5 @@
-//
-//  main.cpp
 //  HackerRank
-//
 //  Created by xadmin on 24.09.20.
-//
 
 #include <iostream>
 

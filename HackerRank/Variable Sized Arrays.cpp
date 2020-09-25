@@ -1,5 +1,4 @@
-//  HackerRank
-//  Created by xadmin on 24.09.20.
+//https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 
 #include <cmath>
 #include <cstdio>
@@ -7,7 +6,8 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-int main() {
+
+int vrr() {
     int n, q; cin >> n >> q;
     int **v = new int*[n];
     for(int j=0;j<n;j++){
@@ -24,3 +24,4 @@ int main() {
     }
     return 0;
 }
+

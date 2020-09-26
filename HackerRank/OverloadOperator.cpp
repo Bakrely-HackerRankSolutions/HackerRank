@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/box-it/problem?h_r=next-challenge&h_v=zen
+//https://www.hackerrank.com/challenges/box-it/problem
 #include <iostream>
 
 using namespace std;

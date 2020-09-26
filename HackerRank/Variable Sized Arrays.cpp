@@ -7,7 +7,7 @@
 #include <algorithm>
 using namespace std;
 
-int vrr() {
+int main() {
     int n, q; cin >> n >> q;
     int **v = new int*[n];
     for(int j=0;j<n;j++){

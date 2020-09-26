@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/inherited-code/problem?h_r=next-challenge&h_v=zen&isFullScreen=true&h_r=next-challenge&h_v=zen
+//https://www.hackerrank.com/challenges/inherited-code/problem
 #include <iostream>
 #include <string>
 #include <sstream>

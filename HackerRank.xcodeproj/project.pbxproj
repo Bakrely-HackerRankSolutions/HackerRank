@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8761BA8D251F650F00C4CEC0 /* LRUCache.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8761BA8C251F650F00C4CEC0 /* LRUCache.cpp */; };
-		879D1AA5251CC36F00AD9B57 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1AA4251CC36F00AD9B57 /* main.cpp */; };
 		879D1AB6251CD27F00AD9B57 /* Variable Sized Arrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1AB5251CD27F00AD9B57 /* Variable Sized Arrays.cpp */; };
 		879D1AB9251E081500AD9B57 /* OverloadOperator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1AB8251E081500AD9B57 /* OverloadOperator.cpp */; };
 		879D1ABD251E2F7600AD9B57 /* UserDefinedExceptions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1ABB251E2F7600AD9B57 /* UserDefinedExceptions.cpp */; };
@@ -31,7 +30,6 @@
 /* Begin PBXFileReference section */
 		8761BA8C251F650F00C4CEC0 /* LRUCache.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LRUCache.cpp; sourceTree = "<group>"; };
 		879D1AA1251CC36F00AD9B57 /* HackerRank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRank; sourceTree = BUILT_PRODUCTS_DIR; };
-		879D1AA4251CC36F00AD9B57 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		879D1AB5251CD27F00AD9B57 /* Variable Sized Arrays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Variable Sized Arrays.cpp"; sourceTree = "<group>"; };
 		879D1AB8251E081500AD9B57 /* OverloadOperator.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OverloadOperator.cpp; sourceTree = "<group>"; };
 		879D1ABB251E2F7600AD9B57 /* UserDefinedExceptions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = UserDefinedExceptions.cpp; sourceTree = "<group>"; };
@@ -69,7 +67,6 @@
 		879D1AA3251CC36F00AD9B57 /* HackerRank */ = {
 			isa = PBXGroup;
 			children = (
-				879D1AA4251CC36F00AD9B57 /* main.cpp */,
 				879D1AC3251E6B3400AD9B57 /* Virtualfunctions&StaticVar.cpp */,
 				879D1ABF251E56AE00AD9B57 /* Std&no_Std_Exceptions.cpp */,
 				879D1ABB251E2F7600AD9B57 /* UserDefinedExceptions.cpp */,
@@ -136,7 +133,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				879D1AA5251CC36F00AD9B57 /* main.cpp in Sources */,
 				879D1AC0251E56AE00AD9B57 /* Std&no_Std_Exceptions.cpp in Sources */,
 				879D1AB6251CD27F00AD9B57 /* Variable Sized Arrays.cpp in Sources */,
 				879D1ABD251E2F7600AD9B57 /* UserDefinedExceptions.cpp in Sources */,

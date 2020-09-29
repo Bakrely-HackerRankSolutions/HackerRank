@@ -14,6 +14,7 @@
 		879D1AC0251E56AE00AD9B57 /* Std&no_Std_Exceptions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1ABF251E56AE00AD9B57 /* Std&no_Std_Exceptions.cpp */; };
 		879D1AC4251E6B3400AD9B57 /* Virtualfunctions&StaticVar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 879D1AC3251E6B3400AD9B57 /* Virtualfunctions&StaticVar.cpp */; };
 		87CCF3302522540600EB0DBE /* OutputFormat.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87CCF32F2522540600EB0DBE /* OutputFormat.cpp */; };
+		87CCF33525233DC200EB0DBE /* dequeSTL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 87CCF33425233DC200EB0DBE /* dequeSTL.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -38,6 +39,7 @@
 		879D1AC3251E6B3400AD9B57 /* Virtualfunctions&StaticVar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Virtualfunctions&StaticVar.cpp"; sourceTree = "<group>"; };
 		87CCF32F2522540600EB0DBE /* OutputFormat.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OutputFormat.cpp; sourceTree = "<group>"; };
 		87CCF3332522551200EB0DBE /* OutputFormat.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = OutputFormat.txt; sourceTree = "<group>"; };
+		87CCF33425233DC200EB0DBE /* dequeSTL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = dequeSTL.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				8761BA8C251F650F00C4CEC0 /* LRUCache.cpp */,
 				87CCF32F2522540600EB0DBE /* OutputFormat.cpp */,
 				87CCF3332522551200EB0DBE /* OutputFormat.txt */,
+				87CCF33425233DC200EB0DBE /* dequeSTL.cpp */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				879D1AC0251E56AE00AD9B57 /* Std&no_Std_Exceptions.cpp in Sources */,
 				879D1AB6251CD27F00AD9B57 /* Variable Sized Arrays.cpp in Sources */,
 				879D1ABD251E2F7600AD9B57 /* UserDefinedExceptions.cpp in Sources */,
+				87CCF33525233DC200EB0DBE /* dequeSTL.cpp in Sources */,
 				879D1AC4251E6B3400AD9B57 /* Virtualfunctions&StaticVar.cpp in Sources */,
 				879D1AB9251E081500AD9B57 /* OverloadOperator.cpp in Sources */,
 				8761BA8D251F650F00C4CEC0 /* LRUCache.cpp in Sources */,
